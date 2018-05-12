@@ -1,0 +1,3 @@
+rootProject.name = 'ReactGithubApp'
+
+include ':app'
